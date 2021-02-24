@@ -1,3 +1,7 @@
 # networx
-<link rel="preconnect" href="https://fonts.gstatic.com">
-<link href="https://fonts.googleapis.com/css2?family=Space+Mono:ital@1&display=swap" rel="stylesheet">
+@font-face {
+    font-family:' space mono'
+    src: url("../networx/F16_Panel Font.ttf") format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
