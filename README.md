@@ -1,4 +1,3 @@
-# <h1> networx </h1>
 <!DOCTYPE html>
 <html>
 <head>
@@ -13,13 +12,12 @@ h1 {
 }
 
 p {
-  font-family: ;
+  font-family: Arial ;
   font-size: 20px;
 }
 </style>
 </head>
 <body>
-
 <h1>Networx</h1>
 <p>The purpose of this website is to inform teenagers how they </p>
 <img src="https://user-images.githubusercontent.com/78987191/109760700-0396ce80-7ba4-11eb-8d51-894ecd9bbb7a.jpg" >
@@ -37,6 +35,10 @@ code for Arial font={ font-family: Arial; font-size: 15px; font-style: normal;}
 logo font= menlo
 <br>
 code for menlo font= {font- family: Menlo; font-size: 35px ; font-style; regular; }
+=======
+<h1> networx </h1>
+<p>This is a paragraph.</p>
+
 </body>
 </html>
 
