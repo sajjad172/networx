@@ -1,4 +1,3 @@
-# <h1> networx </h1>
 <!DOCTYPE html>
 <html>
 <head>
@@ -20,7 +19,7 @@ p {
 </head>
 <body>
 
-<h1>My First CSS Example</h1>
+<h1> networx </h1>
 <p>This is a paragraph.</p>
 
 </body>
