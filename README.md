@@ -65,6 +65,40 @@ code for menlo font= {font- family: Menlo; font-size: 35px ; font-style; regular
 
 
 <a href="https://www.instagram.com/annabananamal/" class="fa fa-instagram"></a>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 1px -5px;
+  border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+
+
+
+
+}
+
+.fa-google {
+  background: #dd4b39;
+  color: white;
+}
+
+
+}
+</style>
+</head>
+<body>
+
+
+<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new" class="fa fa-google"></a>
 </body>
 </html>
 
