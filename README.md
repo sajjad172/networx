@@ -37,6 +37,34 @@ logo font= menlo
 code for menlo font= {font- family: Menlo; font-size: 35px ; font-style; regular; }
 =======
 <h1> networx </h1>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+.fa {
+  padding: 15px;
+  font-size: 40px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 0px -20px;
+  border-radius: 50%;
+}
+.fa:hover {
+    opacity: 0.7;
+}
+}
+.fa-instagram {
+  background: #125688;
+  color: white;
+   
+}
+<li>  
+<a href="https://www.instagram.com/annabananamal/" class="fa fa-instagram"> </a> 
+</style>
+</head>
+<body>
+
+
+<a href="https://www.instagram.com/annabananamal/" class="fa fa-instagram"></a>
 </body>
 </html>
 
