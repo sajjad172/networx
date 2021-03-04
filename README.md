@@ -127,16 +127,17 @@ body {
     <h2>DMV Requirements for License Application</h2>
  
 
-    <img src="https://cdn.aarp.net/content/dam/aarp/auto/2016/06/1140-distracted-driving-tips-intr.imgcache.rev.web.1140.655.jpg" alt="driving" height="225" min-width="100%">
-    <p> After you had your permit for 6 months you now can apply for a license! If you apply for a license before you turn 18 you must; Practice driving for at least six months, complete six hours of drivers training with a licensed instructor, complete 50 hours of driving practice, including 10 hours at night. These hours must be supervised and certified by an adult who is at least 25 years old and has a valid drivers license.Once you are ready to apply for a license you must bring a completed Form DL 44 available at the DMV, signed by your parent or guardian, proof of your date of birth and legal residence, pay application fee, proof of Social security number, proof of California residency, proof of completion of a drivers education course, and provide a thumbprint. After that, You'll also be required to pass a vision exam and written traffic and sign knowledge test. The test will gauge your knowledge of California road signs, driving laws, and miscellaneous rules included in the California Driver Handbook. The test has 46 questions, and you need to answer at least 38 correctly. You will have only 3 attempts to pass the test within a year if not you will need to reapply for your license. Below down is the DMW website where you can make appoinments and learn. There you go all the things you need for your license!</p>
-        <br>
-        <br>
-        <a href="https://www.dmv.ca.gov/portal/"><button>DMV</button> </a>
+<img src="https://cdn.aarp.net/content/dam/aarp/auto/2016/06/1140-distracted-driving-tips-intr.imgcache.rev.web.1140.655.jpg" alt="driving" height="225" min-width="100%">
+<p> After you had your permit for 6 months you now can apply for a license! If you apply for a license before you turn 18 you must; Practice driving for at least six months, complete six hours of drivers training with a licensed instructor, complete 50 hours of driving practice, including 10 hours at night. These hours must be supervised and certified by an adult who is at least 25 years old and has a valid drivers license.Once you are ready to apply for a license you must bring a completed Form DL 44 available at the DMV, signed by your parent or guardian, proof of your date of birth and legal residence, pay application fee, proof of Social security number, proof of California residency, proof of completion of a drivers education course, and provide a thumbprint. After that, You'll also be required to pass a vision exam and written traffic and sign knowledge test. The test will gauge your knowledge of California road signs, driving laws, and miscellaneous rules included in the California Driver Handbook. The test has 46 questions, and you need to answer at least 38 correctly. You will have only 3 attempts to pass the test within a year if not you will need to reapply for your license. Below down is the DMW website where you can make appoinments and learn. There you go all the things you need for your license!</p>
+<br>
+<br>
+<a href="https://www.dmv.ca.gov/portal/"><button>DMV</button> </a>
     <div class="fakeimg" style="height:200px;">Image</div>
-    <p>Some text..</p>
-    <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
-    <br>
-    <h2>Mental Health</h2>
+
+
+<br>
+    
+<h2>Mental Health</h2>
   <p>One of our goals is help youth to identify what is causing them stress, anxiety, or other mental health barriers, so they can address their mental well-being and get the help they deserve.</p><br>
   <a href="https://www.changetochill.org/wp-content/uploads/2015/08/16824_Teen-Depression.pdf"><button>Teen Depression</button> </a>
   <br>
