@@ -19,10 +19,6 @@ body {
  
 }
  
-/* Increase the font size of the heading */
-.header h1 {
-  font-size: 40px;
-}
 
 /* Style the top navigation bar */
 .navbar {
@@ -76,12 +72,7 @@ body {
   padding: 20px;
 }
 
-/* Fake image, just for this example */
-.fakeimage {
-  background-color: #aaa;
-  width: 100%;
-  padding: 20px;
-}
+
 
 /* Footer */
 .footer {
@@ -90,14 +81,13 @@ body {
   background: #ddd;
 }
 
-/* Responsive layout - when the screen is less than 700px wide, make the two columns stack on top of each other instead of next to each other */
-@media screen and (max-width: 700px) {
+ {
   .row {   
     flex-direction: column;
   }
 }
 
-/* Responsive layout - when the screen is less than 400px wide, make the navigation links stack on top of each other instead of next to each other */
+
 @media screen and (max-width: 400px) {
   .navbar a {
     float: none;
@@ -130,16 +120,14 @@ body {
   <br>
   <br>
   <a href="https://www.dmv.ca.gov/portal/"><button>DMV</button> </a>
-    <p>Lorem ipsum dolor sit ame.</p>
-    <div class="fakeimg" style="height:60px;">Image</div><br>
-    <div class="fakeimg" style="height:60px;">Image</div><br>
-    <div class="fakeimg" style="height:60px;">Image</div>
+    
+<div class="fakeimg" style="height:60px;">Image</div><br>
   </div>
   <div class="main">
     <h2>DMV Requirements for License Application</h2>
  
 
-    <img src="https://cdn.aarp.net/content/dam/aarp/auto/2016/06/1140-distracted-driving-tips-intro.imgcache.rev.web.1140.655.jpg" alt="driving" height="225" min-width="100%">
+    <img src="https://cdn.aarp.net/content/dam/aarp/auto/2016/06/1140-distracted-driving-tips-intr.imgcache.rev.web.1140.655.jpg" alt="driving" height="225" min-width="100%">
     <p> After you had your permit for 6 months you now can apply for a license! If you apply for a license before you turn 18 you must; Practice driving for at least six months, complete six hours of drivers training with a licensed instructor, complete 50 hours of driving practice, including 10 hours at night. These hours must be supervised and certified by an adult who is at least 25 years old and has a valid drivers license.Once you are ready to apply for a license you must bring a completed Form DL 44 available at the DMV, signed by your parent or guardian, proof of your date of birth and legal residence, pay application fee, proof of Social security number, proof of California residency, proof of completion of a drivers education course, and provide a thumbprint. After that, You'll also be required to pass a vision exam and written traffic and sign knowledge test. The test will gauge your knowledge of California road signs, driving laws, and miscellaneous rules included in the California Driver Handbook. The test has 46 questions, and you need to answer at least 38 correctly. You will have only 3 attempts to pass the test within a year if not you will need to reapply for your license. Below down is the DMW website where you can make appoinments and learn. There you go all the things you need for your license!</p>
         <br>
         <br>
