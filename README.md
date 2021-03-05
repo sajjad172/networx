@@ -251,8 +251,8 @@ href="https://www.instagram.com/annabananamal/" class="fa fa-instagram"></a>
 
         
 
-      </div>
-    </div>
+</div>
+</div>
   </div>
 
  <p> <strong><em>insest image here of you (if yall want)</em></strong></p>
@@ -295,7 +295,7 @@ What’s up my name is Farah. I am 15 and was made in 2005. Some hobbies I got i
 
 <a href="mailto:alsammarraief8095@student.sanjuan.edu" class="fa fa-google"></a>
        
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
 .fa {
   padding: 15px;
@@ -321,8 +321,8 @@ What’s up my name is Farah. I am 15 and was made in 2005. Some hobbies I got i
 href="https://www.instagram.com/farahsamaraiee/" class="fa fa-instagram"></a>
        
          
-      </div>
-    </div>
+</div> 
+</div>
   </div>
 
  <p> <strong><em>insest image here of you (if yall want)</em></strong></p>
@@ -396,8 +396,8 @@ href="https://www.instagram.com/sj_.2005/" class="fa fa-instagram"></a>
 
 
 
-      </div>
-    </div>
+</div>
+</div>
   </div>
 </div>
 </body>
