@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<<!DOCTYPE html>
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -7,7 +7,7 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
- {
+* {
   box-sizing: border-box;
 }
 
@@ -80,8 +80,8 @@ input[type=submit]:hover {
       <form action="/action_page.php">
         <label for="fname"> Name</label>
         <input type="text" id="fname" name="Name" placeholder="Your name...">
-       
-<label for="lsname">Email</label>
+   
+        <label for="lsname">Email</label>
         <input type="text" id="lsname" name="Email" placeholder="Your email...">
         <label for="country">Country</label>
         <select id="country" name="country">
@@ -89,17 +89,14 @@ input[type=submit]:hover {
           <option value="canada">Canada</option>
           <option value="usa">Australia</option>
           <option value="usa">Europe</option>
-</select>
-        <label for="subject">Message</label>
-<textarea id="subject" name="subject" placeholder="Write us...
-        style="height:170px"></textarea>
-<input type="submit" value="Submit">
-</form>
-</div>
+        </select>
+        <label for="subject">Subjhct</label>
+        <textarea id="subject" name="subject" placeholder="Write us..." style="height:170px"></textarea>
+        <input type="submit" value="Submit">
+      </form>
+    </div>
   </div>
 </div>
 
 </body>
 </html>
-
-
